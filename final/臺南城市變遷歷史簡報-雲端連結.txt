@@ -1,0 +1,7 @@
+Google Slides 簡報連結：
+https://docs.google.com/presentation/d/18hV7iA6miGsP4wb5_xU5vykp2zW5pA9Vjy2ifh87_Zc/edit?usp=drivesdk
+
+備註：
+- 這是已建立完成的雲端簡報版本
+- 本資料夾中的 `tainan-city-history-slide-copy.md` 是可直接貼進簡報的文字版
+- 本資料夾中的 `tainan-city-history-speaking-cues.md` 是上台提示句版
