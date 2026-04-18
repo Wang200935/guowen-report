@@ -1,7 +1,7 @@
-Google Slides 簡報連結：
-https://docs.google.com/presentation/d/18hV7iA6miGsP4wb5_xU5vykp2zW5pA9Vjy2ifh87_Zc/edit?usp=drivesdk
+Google Slides 簡報連結（最新同步版）：
+https://docs.google.com/presentation/d/1DtZ2Z9OHPHAqScW9Piric-D4SphbTfdEZ7J1TUxeA2g/edit?usp=drivesdk
 
 備註：
-- 這是已建立完成的雲端簡報版本
-- 本資料夾中的 `tainan-city-history-slide-copy.md` 是可直接貼進簡報的文字版
-- 本資料夾中的 `tainan-city-history-speaking-cues.md` 是上台提示句版
+- 這個連結已改成最新從 repo 內 `final/臺南城市變遷歷史簡報.pptx` 匯入的版本
+- 舊的雲端連結已淘汰，避免看到未更新的簡報內容
+- 若後續再改 `.pptx`，要再重新同步雲端版，不能只留舊連結
