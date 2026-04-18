@@ -8,3 +8,6 @@
 
 ## 簡報
 - Google Slides：見 `final/臺南城市變遷歷史簡報-雲端連結.txt`
+
+- 本地 PPTX：`final/臺南城市變遷歷史簡報.pptx`
+- 產生腳本：`final/build_deck.js`
