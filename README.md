@@ -7,7 +7,7 @@
 - `research/`：研究骨架、視覺支援包
 
 ## 簡報
-- 線上觀看：[Canva 簡報](https://canva.link/wgb1n2q60v64y93)
+- 線上觀看：[Canva 簡報](https://www.canva.com/d/xzgMY6LqqyEI-yo)
 - PDF 觀看：[臺南城市變遷歷史簡報.pdf](final/%E8%87%BA%E5%8D%97%E5%9F%8E%E5%B8%82%E8%AE%8A%E9%81%B7%E6%AD%B7%E5%8F%B2%E7%B0%A1%E5%A0%B1.pdf)
 - 原始簡報：[臺南城市變遷歷史簡報.pptx](final/%E8%87%BA%E5%8D%97%E5%9F%8E%E5%B8%82%E8%AE%8A%E9%81%B7%E6%AD%B7%E5%8F%B2%E7%B0%A1%E5%A0%B1.pptx)
 - 連結備註：見 `final/臺南城市變遷歷史簡報-雲端連結.txt`
