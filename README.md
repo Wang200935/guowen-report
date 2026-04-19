@@ -7,8 +7,8 @@
 - `research/`：研究骨架、視覺支援包
 
 ## 簡報
-- Canva 版本：見 `final/臺南城市變遷歷史簡報-雲端連結.txt`
-
-- 本地 PPTX：`final/臺南城市變遷歷史簡報.pptx`
-- 本地 PDF：`final/臺南城市變遷歷史簡報.pdf`
+- 線上觀看：[Canva 簡報](https://canva.link/wgb1n2q60v64y93)
+- PDF 觀看：[臺南城市變遷歷史簡報.pdf](final/%E8%87%BA%E5%8D%97%E5%9F%8E%E5%B8%82%E8%AE%8A%E9%81%B7%E6%AD%B7%E5%8F%B2%E7%B0%A1%E5%A0%B1.pdf)
+- 原始簡報：[臺南城市變遷歷史簡報.pptx](final/%E8%87%BA%E5%8D%97%E5%9F%8E%E5%B8%82%E8%AE%8A%E9%81%B7%E6%AD%B7%E5%8F%B2%E7%B0%A1%E5%A0%B1.pptx)
+- 連結備註：見 `final/臺南城市變遷歷史簡報-雲端連結.txt`
 - 產生腳本：`final/建立簡報.mjs`
