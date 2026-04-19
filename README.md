@@ -10,4 +10,5 @@
 - Canva 版本：見 `final/臺南城市變遷歷史簡報-雲端連結.txt`
 
 - 本地 PPTX：`final/臺南城市變遷歷史簡報.pptx`
+- 本地 PDF：`final/臺南城市變遷歷史簡報.pdf`
 - 產生腳本：`final/建立簡報.mjs`
