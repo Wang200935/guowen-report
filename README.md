@@ -12,3 +12,31 @@
 - 原始簡報：[臺南城市變遷歷史簡報.pptx](final/%E8%87%BA%E5%8D%97%E5%9F%8E%E5%B8%82%E8%AE%8A%E9%81%B7%E6%AD%B7%E5%8F%B2%E7%B0%A1%E5%A0%B1.pptx)
 - 連結備註：見 `final/臺南城市變遷歷史簡報-雲端連結.txt`
 - 產生腳本：`final/建立簡報.mjs`
+
+## README 預覽
+### 第 1 頁
+![第 1 頁](final/readme-slides/slide-01.png)
+
+### 第 2 頁
+![第 2 頁](final/readme-slides/slide-02.png)
+
+### 第 3 頁
+![第 3 頁](final/readme-slides/slide-03.png)
+
+### 第 4 頁
+![第 4 頁](final/readme-slides/slide-04.png)
+
+### 第 5 頁
+![第 5 頁](final/readme-slides/slide-05.png)
+
+### 第 6 頁
+![第 6 頁](final/readme-slides/slide-06.png)
+
+### 第 7 頁
+![第 7 頁](final/readme-slides/slide-07.png)
+
+### 第 8 頁
+![第 8 頁](final/readme-slides/slide-08.png)
+
+### 第 9 頁
+![第 9 頁](final/readme-slides/slide-09.png)
