@@ -1,4 +1,4 @@
-# guowen-report
+# 國文報告專案
 
 國文報告專案。
 
@@ -7,7 +7,7 @@
 - `research/`：研究骨架、視覺支援包
 
 ## 簡報
-- Google Slides：見 `final/臺南城市變遷歷史簡報-雲端連結.txt`
+- Canva 版本：見 `final/臺南城市變遷歷史簡報-雲端連結.txt`
 
 - 本地 PPTX：`final/臺南城市變遷歷史簡報.pptx`
-- 產生腳本：`final/build_deck.js`
+- 產生腳本：`final/建立簡報.mjs`

@@ -1,7 +1,7 @@
-Google Slides 簡報連結（最新同步版）：
-https://docs.google.com/presentation/d/1DtZ2Z9OHPHAqScW9Piric-D4SphbTfdEZ7J1TUxeA2g/edit?usp=drivesdk
+Canva 簡報連結（科技風修正版）：
+https://www.canva.com/d/gv3frwQ7WOfbbSZ
 
 備註：
-- 這個連結已改成最新從 repo 內 `final/臺南城市變遷歷史簡報.pptx` 匯入的版本
-- 舊的雲端連結已淘汰，避免看到未更新的簡報內容
-- 若後續再改 `.pptx`，要再重新同步雲端版，不能只留舊連結
+- 這個連結對應最新從 repo 內 `final/臺南城市變遷歷史簡報.pptx` 匯入的 Canva 設計
+- 設計名稱：臺南城市變遷歷史簡報（科技風修正版）
+- 目前仍需要在 Canva 介面中把分享權限切成「任何知道連結的人都可觀看」，之後這條連結就會成為最終公開版
